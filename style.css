@@ -1,0 +1,140 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.message{
+    text-align: center;
+    color: rgb(65, 75, 65);
+}
+.message #color{
+    color: grey;
+}
+.home{
+    margin-top: 20px;
+    background-image: url(image/Cover4.png);
+    background-repeat: no-repeat;
+    margin-bottom: 80px;
+}
+.home_size{
+    text-align: center;
+    color: white;
+    padding: 50px 90px;
+}
+h1{
+    font-size: 55px;
+}
+.name{
+    color: orange;
+}
+.top{
+    display: flex;
+    margin-bottom: 80px;
+    margin-left: 8%;
+    margin-top: 5%;
+}
+.head_size{
+    width: 50%;
+}
+.head_size #header{
+    margin-top: 20%;
+}
+.head_size p{
+    font-size: 20px;
+    margin-right: 10%;
+    padding-bottom: 5%;
+}
+.head_size img{
+    width: 100%;
+}
+.link{
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 50px;
+    background-image: linear-gradient(rgb(240, 158, 8), rgb(238, 79, 51));
+    box-shadow: 5px 5px 10px 10px rgb(247, 222, 222);
+    color: white;
+    font-weight: 700px;
+    font-size: large;
+}
+.mid{
+    display: flex;
+    background-image: url(image/7.png);
+    background-repeat: no-repeat;
+    margin-bottom: 80px;
+}
+h2{
+    font-size: 35px;
+}
+.mid_size{
+    width: 50%;
+}
+.mid_size #about{
+    padding-top: 20%;
+}
+.mid_size p{
+ padding-right: 15%;
+ padding-bottom: 10%;
+ font-size: 20px;
+}
+.mid_size img{
+    width: 50%;
+    padding-left: 30%;
+    padding-top: 10%;
+}
+.bottom_top{
+    text-align: center;
+}
+.bottom_top p{
+    font-size: 20px;
+}
+.bottom_position{
+    display: flex;
+    margin-bottom: 80px;
+    margin-left: 7%;
+    margin-right: 2%;
+}
+.bottom_size{
+    width: 33%;
+    padding: 15px 15px;
+    box-shadow: 5px 5px 10px 10px rgb(230, 228, 228);
+    border-radius: 20px;
+    border: 1px gray;
+    margin-right: 5%;
+}
+.bottom_size img{
+    width: 100%;
+}
+.footer_position{
+    margin-bottom: 80px;
+    margin-left: 7%;
+    margin-right: 10%;
+}
+.box{
+    width: 100%;
+    display: flex;
+    padding: 30px 30px;
+    box-shadow: 5px 5px 10px 10px rgb(230, 228, 228);
+    border-radius: 20px;
+    border: 1px gray;
+    margin-right: 5%;
+}
+.social{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.footer_size{
+    text-align: center;
+    padding-top: 20px;
+    background-color: rgb(19, 16, 16);
+    padding-bottom: 50px;
+}
+.size{
+    font-size: 30px;
+    margin-bottom: 0;
+}
+.footer_size #down{
+    color: white;
+}
+.net{
+    color: gray;
+}
